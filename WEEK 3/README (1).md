@@ -1,11 +1,11 @@
 
-# 🗑️ Garbage Classification Using Deep Learning
+ Garbage Classification 
 
 This project is a part of the AICTE Edunet Foundation internship, focusing on classifying garbage images into predefined categories using machine learning and computer vision techniques. The objective is to support automated waste sorting systems by building a robust image classifier.
 
 ---
 
-## 📁 Dataset
+ 📁 Dataset
 
 The dataset used is the **TrashType Image Dataset**, which contains labeled images of different types of garbage. Common categories include:
 
@@ -18,7 +18,7 @@ The dataset used is the **TrashType Image Dataset**, which contains labeled imag
 
 ---
 
-## 📌 Project Objectives
+Project Objectives
 
 - Load and preprocess the image dataset.
 - Apply image augmentation techniques.
@@ -28,7 +28,7 @@ The dataset used is the **TrashType Image Dataset**, which contains labeled imag
 
 ---
 
-## ⚙️ Project Structure
+Project Structure
 
 ```
 garbage-classification/
@@ -40,7 +40,7 @@ garbage-classification/
 
 ---
 
-## 🧪 Tech Stack
+Tech Stack
 
 - **Python**
 - **TensorFlow / Keras**
@@ -51,7 +51,7 @@ garbage-classification/
 
 ---
 
-## 🚀 How to Run
+How to Run
 
 1. **Clone this repository** or download the files.
 
@@ -69,35 +69,34 @@ garbage-classification/
 
 ---
 
-## 📊 Model Performance
+Model Performance
 
 The CNN model was trained with data augmentation, dropout, and Adam optimizer. It achieved good accuracy in classifying waste types with minimal overfitting.
 
 ---
 
-## 📎 Results
+Results
 
 - Model Accuracy: ~85-90% (varies by dataset split)
 - Loss curves and accuracy plots provided in the notebook.
 
 ---
 
-## 💾 Output
+Output
 
 - Final trained model saved as `.h5` file.
 - Confusion matrix and classification report displayed for evaluation.
 
 ---
 
-## 🧠 Learnings
+ Learnings
 
 - Image preprocessing significantly affects model performance.
 - Data augmentation helps reduce overfitting.
 - CNN architectures are powerful for visual classification tasks.
 
 ---
-
-## 👨‍💻 Author
+ Author
 
 **Patan Nayeem**  
 AICTE Edunet Foundation Intern
