@@ -1,4 +1,4 @@
-# Week 2 - Garbage Classification Project
+# Week 2 - Smart Waste Classification Project
 
 ## Objective
 Prepare and preprocess garbage classification dataset for machine learning model training.
