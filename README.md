@@ -20,6 +20,3 @@ Please extract the folder `TrashType_Image_Dataset/` in the same directory as th
 ## 📸 Sample Output
 The notebook displays sample images from each trash type (paper, glass, plastic, etc.)
 
----
-
-Let me know when you're ready for help with Week 2 or if you'd like me to help publish your repo!
