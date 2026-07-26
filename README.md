@@ -1,4 +1,4 @@
-# Garbage Classification – Week 1
+# Smart Waste Classification – Week 1
 This is the Week 1 submission for the Edunet Foundation AICTE Internship project.
 
 ## 📁 Files
