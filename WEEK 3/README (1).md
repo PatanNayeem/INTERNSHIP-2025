@@ -1,5 +1,5 @@
 
- Garbage Classification 
+ Smart Waste Classification 
 
 This project is a part of the AICTE Edunet Foundation internship, focusing on classifying garbage images into predefined categories using machine learning and computer vision techniques. The objective is to support automated waste sorting systems by building a robust image classifier.
 
